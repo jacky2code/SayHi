@@ -1,0 +1,8 @@
+node_modules/
+.project
+unpackage/
+contract/artifacts/
+.DS_Store
+wxcomponents/**/*.vue
+wxcomponents/**/*.css
+.hbuilderx/
