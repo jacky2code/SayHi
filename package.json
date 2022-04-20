@@ -5,5 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "ethers": "^5.6.4"
-  }
+  },
+  "repository": "git@github.com:jacky2code/SayHi.git",
+  "author": "jacky2code <jacky2code@gmail.com>"
 }
